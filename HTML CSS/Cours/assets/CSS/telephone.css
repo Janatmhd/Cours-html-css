@@ -1,0 +1,5 @@
+*{ /*l'étoile, select all, va sélectionner tout le body de la page*/
+    margin: 0;
+    padding: 0;
+    background-color:red;
+}
